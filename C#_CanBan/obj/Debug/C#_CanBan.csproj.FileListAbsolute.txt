@@ -1,0 +1,7 @@
+F:\C#\C#_CanBan\C#_CanBan\bin\Debug\C#_CanBan.exe.config
+F:\C#\C#_CanBan\C#_CanBan\bin\Debug\C#_CanBan.exe
+F:\C#\C#_CanBan\C#_CanBan\bin\Debug\C#_CanBan.pdb
+F:\C#\C#_CanBan\C#_CanBan\obj\Debug\C#_CanBan.csproj.AssemblyReference.cache
+F:\C#\C#_CanBan\C#_CanBan\obj\Debug\C#_CanBan.csproj.CoreCompileInputs.cache
+F:\C#\C#_CanBan\C#_CanBan\obj\Debug\C#_CanBan.exe
+F:\C#\C#_CanBan\C#_CanBan\obj\Debug\C#_CanBan.pdb
